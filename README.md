@@ -12,6 +12,11 @@ Rather than attempting to reproduce absolute intracellular ATP concentrations, t
 
 How do changes in glucose availability, neuronal energy demand, and mitochondrial efficiency influence ATP production and neuronal energy balance?
 
+## Personal Coonviction
+
+My interest in neuronal metabolism developed from my previous research on neurochemical dysfunction and neuronal resilience. In my undergraduate thesis publication, I contributed to research investigating the effects of red onion husk extract on ketamine-induced manic-like behaviour and associated neurochemical alterations, including oxidative stress and antioxidant defence in the cerebral cortex and hippocampus. This work introduced me to the complex biochemical processes that maintain neuronal function and resilience.
+Building on this experience, I became very interested in understanding neuronal function from a systems-level perspective, particularly how neurons balance energy production with changing energetic demands. Since maintaining neuronal activity requires a continuous supply of ATP, As a researcher with Biochemistry experience, I developed this project to explore computationally how glucose availability, mitochondrial efficiency, metabolic flux, and neuronal activity interact to influence cellular energy balance. The project also represents my transition from primarily experimental biochemistry toward computational and systems biology approaches for studying brain metabolism.
+
 ## Objectives
 
 1. Develop a simplified computational model of neuronal energy metabolism.
